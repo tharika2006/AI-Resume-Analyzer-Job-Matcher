@@ -1,0 +1,7 @@
+PyPDF2
+numpy
+pandas
+scikit-learn
+matplotlib
+wordcloud
+reportlab
